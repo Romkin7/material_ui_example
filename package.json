@@ -21,7 +21,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "website": "https://romkin7.github.io/material_ui_example/",
+  "homepage": "https://romkin7.github.io/material_ui_example/",
   "browserslist": {
     "production": [
       ">0.2%",
