@@ -1,0 +1,13 @@
+header, main {
+  position: relative;
+}
+* {
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+}
+main {
+  margin-top: 8%;
+  min-height: 100vh;
+  background-image: linear-gradient(to top, #5e7b42, #7f9464, #9fae89, #c0c9ae, #e0e4d6);
+}
